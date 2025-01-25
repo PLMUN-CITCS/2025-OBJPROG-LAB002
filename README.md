@@ -12,7 +12,7 @@ Week 02 - Java Data Types, Variables, Operators and I/O Statements
 ---
 
 ### **Step 1.2: Setup your Git Environment**
-Only perform this if this is the first time you will setup your Git Environment
+*Only perform if this is the first time you will setup your Git Environment*
 
 1. Create a GitHub Account:
 ```bash
