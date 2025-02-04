@@ -83,6 +83,15 @@ Only perform this if this is the first time you will setup your Git Environment
    - Create variables with different native data types (integers, decimals, strings).
    - Understand the importance of case-sensitivity in identifiers.
 
+   **Desired Output:**
+   ```txt
+   Student Age: 15
+   Item Price: $29.99
+   Student Name: Alice
+   Counter: 10
+   Counter (Different Case): 20
+   ```
+
    **File Naming Convention:**
    - `VariablesAndCaseSensitivity.java`
 
