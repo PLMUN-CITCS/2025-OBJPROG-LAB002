@@ -97,7 +97,12 @@ Only perform this if this is the first time you will setup your Git Environment
    - `VariablesAndCaseSensitivity.java`
 
    **Notable Observations (to be discussed after completing the exercise):**
-   - Observe the output. Notice how counter and Counter have different values, proving that Java is case-sensitive.
+- Case Sensitivity: The most important observation is the demonstration of Java's case sensitivity. The difference in output between counter and Counter clearly shows that Java treats these as distinct variables. This reinforces the importance of careful naming and consistent capitalization.
+- Variable Declaration and Initialization: The exercise reinforces the process of declaring variables of different data types (int, double, String) and initializing them with values. This is a fundamental concept in Java (and most programming languages).
+- Data Type Selection: Students should observe how different data types are used for different kinds of data (age as an integer, price as a double, name as a String). This highlights the importance of choosing the correct data type.
+- Output using System.out.println(): The activity uses System.out.println() to display the values of variables. This is the standard way to produce output in Java console programs, and students get practice using it.
+- String Concatenation: The use of + to combine strings and variables within the System.out.println() statements (e.g., "Student Age: " + studentAge) demonstrates string concatenation, a common operation.
+- Naming Conventions: While not a "result" in the same way as the output, the activity emphasizes the importance of following naming conventions (camelCase). Students should observe how this improves code readability.
 
    **Java Programming Best Practices:**
    - Descriptive Naming: Choose variable names that clearly indicate their purpose (e.g., studentAge instead of age). This makes your code easier to read and understand.
