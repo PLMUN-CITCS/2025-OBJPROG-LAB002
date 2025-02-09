@@ -1,7 +1,7 @@
-2025-OBJPROG-WK02S0E02
+2025-OBJPROG-LAB002
 Week 02 - Introduction to Java Programming
 
-Exercise # 01 - Guided Coding Exercise: Variable Declarations & Case-Sensitivity
+Laboratory # 02 - Guided Coding Exercise: Variable Declarations & Case-Sensitivity
 
 ## **Instructions**
 
