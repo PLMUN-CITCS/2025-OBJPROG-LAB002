@@ -1,4 +1,5 @@
 2025-OBJPROG-LAB002
+
 Week 02 - Introduction to Java Programming
 
 Laboratory # 02 - Guided Coding Exercise: Variable Declarations & Case-Sensitivity
@@ -77,7 +78,7 @@ Only perform this if this is the first time you will setup your Git Environment
 
 ### **Step 3: Complete the Assignment**
 
-**Exercise # 01 - Guided Coding Exercise: Variable Declarations & Case-Sensitivity**
+**Laboratory # 02 - Guided Coding Exercise: Variable Declarations & Case-Sensitivity**
 
    **Objective:**
    - Create variables with different native data types (integers, decimals, strings).
@@ -99,9 +100,12 @@ Only perform this if this is the first time you will setup your Git Environment
    - Observe the output. Notice how counter and Counter have different values, proving that Java is case-sensitive.
 
    **Java Programming Best Practices:**
-- Use descriptive variable names (e.g., studentAge instead of just age).
-- Follow Java naming conventions (camelCase for variables: studentAge, itemPrice).
-- Add comments to your code to explain what it does (we haven't added many here, but it's a good habit to get into!).
+   - Descriptive Naming: Choose variable names that clearly indicate their purpose (e.g., studentAge instead of age). This makes your code easier to read and understand.
+   - Camel Case: Follow Java's camelCase convention for variable names. Start with a lowercase letter, and capitalize the first letter of each subsequent word (e.g., itemPrice, studentName).
+   - Case Sensitivity Matters: Java is case-sensitive. counter and Counter are treated as completely different variables. Be mindful of capitalization.
+   - Comments: While the exercise didn't heavily emphasize them, get into the habit of adding comments to explain your code. This is crucial for maintainability and collaboration. Even simple comments help!
+   - Data Types: Use the appropriate data type for your variables (e.g., int for whole numbers, double for decimals, String for text).
+   - Consistent Indentation: Although not explicitly in the instructions, consistent indentation greatly improves readability. Most IDEs will automatically handle this for you.
       
    **Step-by-Step Instructions:**
 
